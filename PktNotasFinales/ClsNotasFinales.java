@@ -41,6 +41,7 @@ public class ClsNotasFinales {
         boolean salida=true;
         float promedio=0;
         char notaFinal; // CAMBIOS
+        int variable;
 
         while(salida){
             
