@@ -42,6 +42,7 @@ public class ClsNotasFinales {
         float promedio=0;
         char notaFinal; // CAMBIOS
         int variable;
+        int variable2;
 
         while(salida){
             
